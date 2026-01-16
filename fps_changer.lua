@@ -69,3 +69,5 @@ Tab:CreateToggle({
    end,
 })
 https://github.com/JSR54/Fps-Changer-by-SunDrop-on-Tiktok/blob/main/fps_changer.lua?raw=true
+print("FPS Changer by SunDrop loaded!")
+
