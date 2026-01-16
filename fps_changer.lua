@@ -48,3 +48,10 @@ Tab:CreateToggle({
       end
    end,
 })
+print("FPS Changer by SunDrop loaded!")
+
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+-- Your script code below
+-- (example FPS toggles here)
+
